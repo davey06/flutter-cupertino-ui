@@ -4,6 +4,25 @@ Flutter project about Cupertino UI looks from [Flutter Codelab](https://codelabs
 
 
 ## Screenshot
+<table>
+  <tr>
+    <td align="center">
+          <img src="https://gitlab.com/devin.yonas/flutter-cupertino-ui/uploads/b4f3b9122c18547feed57b1711f49cbe/product_tab.png">
+      <br />
+      Product Tab
+    </td>
+    <td align="center">
+          <img src="https://gitlab.com/devin.yonas/flutter-cupertino-ui/uploads/864952c8e93615ebe1f54a4002086997/cart_tab.png">
+      <br />
+      Search Tab
+    </td>
+    <td align="center">
+          <img src="https://gitlab.com/devin.yonas/flutter-cupertino-ui/uploads/5cdbdeaf50b830824f6387a5e70df2ce/search_tab.png">
+      <br />
+      Cart Tab
+    </td>
+  </tr>
+</table>
 
 
 
